@@ -13,8 +13,12 @@
 
 ## Yayın
 
-Netlify, depo kökünü olduğu gibi yayımlıyor: derleme komutu yok, yayın klasörü kök.
-Adres: <https://ikraapp.netlify.app>
+GitHub Pages, main dalının kökünü olduğu gibi yayımlıyor; derleme adımı yok.
+Adres: <https://gurkansvlms.github.io/ikra-app-web/>
+
+`ikraapp.netlify.app` bu depodan beslenmiyor — orada ayrı bir İkra sitesi
+duruyor. Alan adı buraya taşınırsa index.html'deki canonical ve og:url
+satırları da güncellenmeli.
 
 ## Not
 
